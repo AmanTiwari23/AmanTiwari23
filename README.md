@@ -4,9 +4,8 @@
 Email Me 👉 ✉️ **tiwari95aman@gmail.com** Reach out for collaboration, projects, or tech discussions! 😊😊
 
 - 🔭 **I’m currently working on:** Building and deploying full-stack web applications using the MERN Stack (MongoDB, Express, React, Node.js).
-- 🌱 **I’m currently learning:** Backend development with Node.js, Express.js, and advanced DevOps tools like Docker and Kubernetes.
-- 👯 **I’m looking to collaborate on:** MERN stack projects, DevOps automation workflows, and Kafka-based data pipelines.
-- 🤔 **I’m looking for help with:** Real-time data processing using Apache Kafka and building scalable microservices.
+- 🌱 **I’m currently learning:** Backend development with Node.js, Express.js.
+- 👯 **I’m looking to collaborate on:** MERN stack projects.
 - 💬 **Ask me about:** MERN stack, and how to build & deploy modern web applications.
 - 📫 **How to reach me:** tiwari95aman@gmail.com
 - 😄 **Pronouns:** Aman Tiwari
